@@ -1,2 +1,2 @@
 # app-zcash
-zcash implementation
+Zcash Protocol implementation
